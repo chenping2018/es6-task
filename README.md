@@ -1,11 +1,11 @@
-## es6-webpack
+## es6-task
 
 ### 安装
 
 首先下载源码
 
 ```shell
-git clone https://github.com/cucygh/es6-webpack.git
+git clone https://github.com/cucygh/es6-task.git
 ```
 
 然后安装
